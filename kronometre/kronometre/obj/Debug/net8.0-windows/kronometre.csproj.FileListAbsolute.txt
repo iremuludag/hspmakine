@@ -1,0 +1,16 @@
+C:\Users\İrem ULUDAĞ\github\kronometre\kronometre\bin\Debug\net8.0-windows\kronometre.exe
+C:\Users\İrem ULUDAĞ\github\kronometre\kronometre\bin\Debug\net8.0-windows\kronometre.deps.json
+C:\Users\İrem ULUDAĞ\github\kronometre\kronometre\bin\Debug\net8.0-windows\kronometre.runtimeconfig.json
+C:\Users\İrem ULUDAĞ\github\kronometre\kronometre\bin\Debug\net8.0-windows\kronometre.dll
+C:\Users\İrem ULUDAĞ\github\kronometre\kronometre\bin\Debug\net8.0-windows\kronometre.pdb
+C:\Users\İrem ULUDAĞ\github\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.Form1.resources
+C:\Users\İrem ULUDAĞ\github\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.csproj.GenerateResource.cache
+C:\Users\İrem ULUDAĞ\github\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İrem ULUDAĞ\github\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.AssemblyInfoInputs.cache
+C:\Users\İrem ULUDAĞ\github\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.AssemblyInfo.cs
+C:\Users\İrem ULUDAĞ\github\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.csproj.CoreCompileInputs.cache
+C:\Users\İrem ULUDAĞ\github\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.dll
+C:\Users\İrem ULUDAĞ\github\kronometre\kronometre\obj\Debug\net8.0-windows\refint\kronometre.dll
+C:\Users\İrem ULUDAĞ\github\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.pdb
+C:\Users\İrem ULUDAĞ\github\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.genruntimeconfig.cache
+C:\Users\İrem ULUDAĞ\github\kronometre\kronometre\obj\Debug\net8.0-windows\ref\kronometre.dll
